@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img width="512" height="512" src="https://github.com/user-attachments/assets/c4ef46f0-af15-4167-b1a2-62268bdf2740" />
+</div>
 
 <!--
 **heroinesy/heroinesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
